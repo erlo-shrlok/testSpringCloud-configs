@@ -1,2 +1,2 @@
 example:
-	message: "This is a test message for service-provider"
+  message: "This is a test message for service-provider"
